@@ -1,0 +1,4 @@
+#Mon Apr 16 14:18:22 CST 2018
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/ueditor/third-party/webuploader/webuploader.html5only.js,src/cn/itcast/login/conf/login-struts.xml
+validator.Unchecked=
